@@ -1,0 +1,36 @@
+{
+ "numer": 2,
+ "strategia": "klikalnosc",
+ "profil_ryzyka": "zrównoważony",
+ "typ_oceny": "wzrost",
+ "spolka": "Folk Club",
+ "start": "2026-10-19",
+ "data_oceny": "2026-11-16",
+ "horyzont_dni": 28,
+ "zakres": {
+  "strony": 6,
+  "caly_serwis": false,
+  "strony_kontroli": null
+ },
+ "punkt_wyjscia": {
+  "od": "2026-09-21",
+  "do": "2026-10-18",
+  "wyswietlenia": 4173,
+  "klikniecia": 191,
+  "pozycja": 6.8,
+  "zrodlo": "strony"
+ },
+ "prognoza": {
+  "wartosc": 14.5,
+  "tekst": "+14,5 kl. / 28 dni",
+  "wzgledem_kontroli": false
+ },
+ "odcisk": {
+  "sha256": "754d6b3d9d8092e2af31c6a626b7ecc549f8822c7381ca72a8ca6f25013c1c19",
+  "algorytm": "sha256",
+  "zapisano": "2026-11-02T10:46:01+00:00",
+  "wsteczny": true,
+  "wersja_formatu": 1,
+  "uwaga": "odcisk wsteczny (zapisany 02.11.2026, po starcie)"
+ }
+}

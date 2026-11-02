@@ -1,0 +1,36 @@
+{
+ "numer": 4,
+ "strategia": "marka",
+ "profil_ryzyka": "konserwatywny",
+ "typ_oceny": "wzrost",
+ "spolka": "Folk Club",
+ "start": "2026-11-01",
+ "data_oceny": "2026-12-13",
+ "horyzont_dni": 42,
+ "zakres": {
+  "strony": 1,
+  "caly_serwis": true,
+  "strony_kontroli": null
+ },
+ "punkt_wyjscia": {
+  "od": "2026-10-04",
+  "do": "2026-10-31",
+  "wyswietlenia": 582,
+  "klikniecia": 72,
+  "pozycja": 2.9,
+  "zrodlo": "grupa fraz"
+ },
+ "prognoza": {
+  "wartosc": null,
+  "tekst": "pozycja przy wyszukiwaniu nazwy firmy: z 4,6 na 2 lub lepiej; pomocniczo +7,5 kl. / 28 dni",
+  "wzgledem_kontroli": false
+ },
+ "odcisk": {
+  "sha256": "5e44bbb316d1efdb2c6fe388a44b5d6947bc3124d8a443ac77246a8b7c9484c6",
+  "algorytm": "sha256",
+  "zapisano": "2026-11-02T10:46:01+00:00",
+  "wsteczny": true,
+  "wersja_formatu": 1,
+  "uwaga": "odcisk wsteczny (zapisany 02.11.2026, po starcie)"
+ }
+}

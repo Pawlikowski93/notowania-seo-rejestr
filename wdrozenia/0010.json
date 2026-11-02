@@ -1,0 +1,36 @@
+{
+ "numer": 10,
+ "strategia": "szczelnosc",
+ "profil_ryzyka": "konserwatywny",
+ "typ_oceny": "higiena",
+ "spolka": "Folk Club",
+ "start": "2026-10-27",
+ "data_oceny": "2026-11-24",
+ "horyzont_dni": 28,
+ "zakres": {
+  "strony": 12,
+  "caly_serwis": false,
+  "strony_kontroli": null
+ },
+ "punkt_wyjscia": {
+  "od": "2026-09-29",
+  "do": "2026-10-26",
+  "wyswietlenia": 227,
+  "klikniecia": 1,
+  "pozycja": 5.0,
+  "zrodlo": "strony"
+ },
+ "prognoza": {
+  "wartosc": null,
+  "tekst": "tak/nie",
+  "wzgledem_kontroli": false
+ },
+ "odcisk": {
+  "sha256": "3f5792fd7251c9600075aa585e7e17fea082cfb9403733dad4f5948707040c0f",
+  "algorytm": "sha256",
+  "zapisano": "2026-11-02T10:46:01+00:00",
+  "wsteczny": true,
+  "wersja_formatu": 1,
+  "uwaga": "odcisk wsteczny (zapisany 02.11.2026, po starcie)"
+ }
+}

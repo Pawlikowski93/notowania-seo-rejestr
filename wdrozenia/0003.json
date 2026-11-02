@@ -1,0 +1,36 @@
+{
+ "numer": 3,
+ "strategia": "architektura",
+ "profil_ryzyka": "zrównoważony",
+ "typ_oceny": "wzrost",
+ "spolka": "Folk Club",
+ "start": "2026-10-29",
+ "data_oceny": "2026-12-10",
+ "horyzont_dni": 42,
+ "zakres": {
+  "strony": 22,
+  "caly_serwis": false,
+  "strony_kontroli": 29
+ },
+ "punkt_wyjscia": {
+  "od": "2026-10-01",
+  "do": "2026-10-28",
+  "wyswietlenia": 4317,
+  "klikniecia": 63,
+  "pozycja": 9.0,
+  "zrodlo": "strony"
+ },
+ "prognoza": {
+  "wartosc": 26.0,
+  "tekst": "+26 kl. / 28 dni względem kontroli",
+  "wzgledem_kontroli": true
+ },
+ "odcisk": {
+  "sha256": "68fe70c3efc7db780c1bd42876af0832bf41eab61bc36495640dd78394469455",
+  "algorytm": "sha256",
+  "zapisano": "2026-11-02T10:46:01+00:00",
+  "wsteczny": true,
+  "wersja_formatu": 1,
+  "uwaga": "odcisk wsteczny (zapisany 02.11.2026, po starcie)"
+ }
+}
