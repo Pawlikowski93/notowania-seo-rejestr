@@ -39,6 +39,13 @@
     "informacja dodatkowa w ocenie"
    ],
    "sha256": "3270c82c9767f2ad713101199cb0d1e48951ef2f39d9b1463129d933bffad490"
+  },
+  {
+   "zapisano": "2026-11-04T19:43:48.332085+00:00",
+   "rodzaj": [
+    "inna zmiana"
+   ],
+   "sha256": "a6a0cad2de5142d70f05a961976266374c37105e11b3660f17e5951d506a77d3"
   }
  ]
 }
