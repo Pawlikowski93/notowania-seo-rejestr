@@ -32,5 +32,14 @@
   "wsteczny": true,
   "wersja_formatu": 1,
   "uwaga": "odcisk wsteczny (zapisany 02.11.2026, po starcie)"
- }
+ },
+ "zmiany_po_zapisie": [
+  {
+   "zapisano": "2026-11-04T16:37:57.411283+00:00",
+   "rodzaj": [
+    "informacja dodatkowa w ocenie"
+   ],
+   "sha256": "3f5792fd7251c9600075aa585e7e17fea082cfb9403733dad4f5948707040c0f"
+  }
+ ]
 }

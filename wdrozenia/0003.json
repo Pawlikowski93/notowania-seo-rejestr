@@ -40,6 +40,13 @@
     "dodatek do oceny"
    ],
    "sha256": "a9e271cd2a45a19e0a3caecd4a71c665faf6e8e26e9f05237e573b77907caa61"
+  },
+  {
+   "zapisano": "2026-11-04T16:37:52.313454+00:00",
+   "rodzaj": [
+    "informacja dodatkowa w ocenie"
+   ],
+   "sha256": "a9e271cd2a45a19e0a3caecd4a71c665faf6e8e26e9f05237e573b77907caa61"
   }
  ]
 }

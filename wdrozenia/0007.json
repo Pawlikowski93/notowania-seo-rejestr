@@ -31,5 +31,14 @@
   "zapisano": "2026-11-04T13:30:19+00:00",
   "wsteczny": false,
   "wersja_formatu": 1
- }
+ },
+ "zmiany_po_zapisie": [
+  {
+   "zapisano": "2026-11-04T16:37:55.691860+00:00",
+   "rodzaj": [
+    "informacja dodatkowa w ocenie"
+   ],
+   "sha256": "3270c82c9767f2ad713101199cb0d1e48951ef2f39d9b1463129d933bffad490"
+  }
+ ]
 }
