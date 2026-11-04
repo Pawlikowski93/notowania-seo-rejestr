@@ -46,6 +46,14 @@
     "inna zmiana"
    ],
    "sha256": "a6a0cad2de5142d70f05a961976266374c37105e11b3660f17e5951d506a77d3"
+  },
+  {
+   "zapisano": "2026-11-04T21:02:58.632859+00:00",
+   "rodzaj": [
+    "korekta (błąd systemu)"
+   ],
+   "sha256": "a6a0cad2de5142d70f05a961976266374c37105e11b3660f17e5951d506a77d3",
+   "opis": "wpis z 04.11 (inna zmiana) to artefakt błędu w wykrywaniu zmian (parametry modelu z przeliczenia tego samego dnia), naprawione 04.11; specyfikacja wdrożenia bez zmian"
   }
  ]
 }
