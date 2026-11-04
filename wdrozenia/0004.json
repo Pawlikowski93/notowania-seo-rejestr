@@ -32,5 +32,22 @@
   "wsteczny": true,
   "wersja_formatu": 1,
   "uwaga": "odcisk wsteczny (zapisany 02.11.2026, po starcie)"
- }
+ },
+ "zmiany_po_zapisie": [
+  {
+   "zapisano": "2026-11-04T13:35:51.203844+00:00",
+   "rodzaj": [
+    "notatka w opisie",
+    "prognoza działania"
+   ],
+   "sha256": "f82a354c7d1069db570194d769dd86252999bda26b6842d8fdd0e096437d5c09"
+  },
+  {
+   "zapisano": "2026-11-04T13:35:52.777926+00:00",
+   "rodzaj": [
+    "poprawka daty"
+   ],
+   "sha256": "f82a354c7d1069db570194d769dd86252999bda26b6842d8fdd0e096437d5c09"
+  }
+ ]
 }
