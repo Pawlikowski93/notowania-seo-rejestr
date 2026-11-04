@@ -54,6 +54,14 @@
    ],
    "sha256": "a6a0cad2de5142d70f05a961976266374c37105e11b3660f17e5951d506a77d3",
    "opis": "wpis z 04.11 (inna zmiana) to artefakt błędu w wykrywaniu zmian (parametry modelu z przeliczenia tego samego dnia), naprawione 04.11; specyfikacja wdrożenia bez zmian"
+  },
+  {
+   "zapisano": "2026-11-04T23:53:26.998022+00:00",
+   "rodzaj": [
+    "korekta (błąd systemu)"
+   ],
+   "sha256": "3270c82c9767f2ad713101199cb0d1e48951ef2f39d9b1463129d933bffad490",
+   "opis": "odcisk poprzedniej korekty wskazywał wersję z błędu; obowiązuje odcisk z dnia zapisu"
   }
  ]
 }
