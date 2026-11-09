@@ -55,6 +55,13 @@
     "informacja dodatkowa w ocenie"
    ],
    "sha256": "f82a354c7d1069db570194d769dd86252999bda26b6842d8fdd0e096437d5c09"
+  },
+  {
+   "zapisano": "2026-11-09T23:47:53.129213+00:00",
+   "rodzaj": [
+    "poprawka parametru UTM"
+   ],
+   "sha256": "b147164f951ee03e114c808b8ff0819e89353d1337426cb989b113588acdb56c"
   }
  ]
 }
