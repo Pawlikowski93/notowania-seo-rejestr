@@ -40,6 +40,14 @@
     "informacja dodatkowa w ocenie"
    ],
    "sha256": "3f5792fd7251c9600075aa585e7e17fea082cfb9403733dad4f5948707040c0f"
+  },
+  {
+   "zapisano": "2026-11-15T14:01:54.603119+00:00",
+   "rodzaj": [
+    "informacja dodatkowa w ocenie"
+   ],
+   "sha256": "3f5792fd7251c9600075aa585e7e17fea082cfb9403733dad4f5948707040c0f",
+   "opis": "okno oceny obejmuje Google November 2026 core update (start 10.11.2026); wynik główny bez zmian"
   }
  ]
 }
